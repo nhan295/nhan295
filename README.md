@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>I specialize in building scalable, modern, and high-performance applications across frontend and backend. Passionate about emerging tech and innovation.</i>
+  <i>I'm currently learning to build reliable and efficient backend systems. I enjoy exploring different technologies and improving my backend development skills step by step</i>
 </p>
 
 <p align="center">
