@@ -44,4 +44,4 @@
 
 ---
 
-⭐️ *Thanks for visiting! Don’t forget to follow and check out my work.*
+⭐️ *Thanks for visiting!
