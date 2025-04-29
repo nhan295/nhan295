@@ -1,7 +1,7 @@
-<h1 align="center">Yoo! I'm [Tên bạn] 👋</h1>
+<h1 align="center">Hello iamnhan 👋</h1>
 
 <p align="center">
-  <b>🚀 Fullstack Developer | 🧠 Tech Enthusiast | 📘 Dev Mentor</b>
+  <b>🚀 Backend Developer | 🧠 Tech Enthusiast</b>
 </p>
 
 <p align="center">
@@ -16,13 +16,10 @@
 
 ## 📌 About Me
 
-- 🔭 Currently exploring **Blockchain** & **Web3**
-- 🛠️ Building fullstack apps using **React**, **Next.js**, **Python**, and more
-- 🎥 Creating tutorials on **YouTube** to share my knowledge
-- 🤝 Love collaborating and mentoring others
-- 🎹 Fun fact: I play the **piano** (sometimes coding to a symphony!)
+- 🔭 Currently exploring **React** & **Django**
+- 🛠️ Building fullstack apps using **React**, **Vue**, **Python**, and more
 
-📫 Let’s connect: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 [LinkedIn](www.linkedin.com/in/tranthihongnhan)
 
 ---
 
