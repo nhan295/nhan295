@@ -19,7 +19,7 @@
 - 🔭 Currently exploring **React** & **Django**
 - 🛠️ Building fullstack apps using **React**, **Vue**, **Python**, and more
 
-📫 [LinkedIn](www.linkedin.com/in/tranthihongnhan)
+📫 [LinkedIn]([www.linkedin.com/in/tranthihongnhan](https://www.linkedin.com/in/tranthihongnhan/))
 
 ---
 
