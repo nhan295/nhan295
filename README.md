@@ -23,22 +23,6 @@
 
 ---
 
-## 🌐 Social & Projects
-
-<p align="left">
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxxxxx?style=social" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" />
-  </a>
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -50,16 +34,13 @@
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
