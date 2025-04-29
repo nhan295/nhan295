@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/9efdecb1-bc42-4e7b-8334-11811e24a667" height="200" alt="dev image">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2djc2pldGVyMTRjMWd5bmV3OWE1YzBpdjJpenVkajd6c3BnMnNpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" height="200" alt="dev image">
 </p>
 
 ---
