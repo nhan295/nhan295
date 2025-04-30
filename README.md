@@ -35,12 +35,14 @@
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white)
 
 ---
 
